@@ -1,6 +1,6 @@
 {
   "name": "@seb-test-org/components",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "type": "module",
   "main": "./dist/index.mjs",
   "module": "./dist/index.mjs",
