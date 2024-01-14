@@ -1,1 +1,1 @@
-export const test = (a: number) => a + 3;
+export const test = (a: number) => a + 4;
